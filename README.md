@@ -63,7 +63,7 @@ The dataset consists of 100,000 records and 21 columns:
 
 ●	CARTERA_VIGACT: Indicates whether the property has outstanding debts.
 
-#Tools Used:
+# Tools Used:
 
 ●	Python
 
