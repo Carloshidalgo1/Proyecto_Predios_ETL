@@ -9,7 +9,7 @@ The data extraction phase focuses on creating property tax projections through c
 
 So, there are numerous difficulties in handling information from the licensed software used by the public agency to project city properties. Poor decision-making and frequent errors occur due to deficiencies in the exported data, which is often extensive and heavy.
 
-#Workflow
+# Workflow
 A workflow is defined where the data sources are specified as the files used for the established tasks executed via Python/Airflow in Docker.
 
 Transformed data is stored in PostgreSQL databases, following standard ETL phases: Extraction, Staging, Transformation, Merge, and Load. 
