@@ -1,0 +1,13 @@
+venv/
+config.yaml
+docker_compose.yml
+dockerfile
+
+data/*
+
+airflow/logs
+airflow-webserver.pid
+airflow.cfg
+airflow.db
+standalone_admin_password.txt
+webserver_config.py
