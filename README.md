@@ -1,7 +1,7 @@
 # Proyecto_predios_ETL
 Project proyeccion de predios de la ciudad X vigencias 2024-2025 signature ETL-UAO
 
-# Introduccion
+# introduction
 A public agency needs to analyze various variables related to city properties through projections to ensure secure and efficient property tax billing. The goal is to manage the necessary calculations for property analysis and facilitate decision-making by utilizing information extracted from the agency’s licensed software.
 
 As a public city entity, the agency handles large capital figures, making property projections crucial to prevent significant financial losses for both the municipality and taxpayers.
