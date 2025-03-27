@@ -1,0 +1,6 @@
+database:
+  user: "postgres"
+  password: "admin*"
+  host: "host.docker.internal"
+  port: 5432
+  name: "proye_etl_db"
